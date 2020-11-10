@@ -6,13 +6,13 @@ import Crud from './crud.js';
 import Animasi from './animasi.js';
 import Example from './ckeditor.js';
 
-import CKEditor from './ckedita.js';
+// import CKEditor from './ckedita.js';
 class App extends Component {
   render() {
     return (
       <div>
-        <CKEditor/>
-        <Example/>
+        {/* <CKEditor/> */}
+        {/* <Example/> */}
            
       <Navbar/>
       
